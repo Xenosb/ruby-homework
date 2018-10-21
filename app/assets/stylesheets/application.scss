@@ -1,9 +1,10 @@
 @import "*";
 @import 'bootstrap';
+@import 'toastr_rails';
 
 body {
     padding-top: 3.5rem;
-    
+
     .navbar {
         .navbar-brand {
             img {
